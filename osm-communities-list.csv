@@ -1,4 +1,4 @@
-country_iso3166-2,country_name,osm_forum_url,osm_list_url, 
+country_iso3166-2,country_name,osm_forum_url,osm_list_url,other
 AF,Afghanistan,,https://lists.openstreetmap.org/listinfo/talk-af
 AX,"Åland Islands",,
 AL,Albania,,
@@ -45,7 +45,7 @@ BQ,"Caribbean Netherlands",,
 KY,"Cayman Islands",,
 CF,"Central African Republic",,https://lists.openstreetmap.org/listinfo/talk-cf
 EA,"Ceuta & Melilla",,
-TD,Chad,,
+TD,Chad,,https://lists.openstreetmap.org/listinfo/talk-td
 CL,Chile,,https://lists.openstreetmap.org/listinfo/talk-cl
 CN,China,http://forum.openstreetmap.org/viewforum.php?id=73,https://lists.openstreetmap.org/listinfo/talk-cn
 CX,"Christmas Island",,
@@ -112,56 +112,56 @@ IM,"Isle of Man",,
 IL,Israel,http://forum.openstreetmap.org/viewforum.php?id=33,https://lists.openstreetmap.org/listinfo/talk-il
 IT,Italy,http://forum.openstreetmap.org/viewforum.php?id=39,https://lists.openstreetmap.org/listinfo/talk-it
 JM,Jamaica,,
-JP,Japan,http://forum.openstreetmap.org/viewforum.php?id=85,
+JP,Japan,http://forum.openstreetmap.org/viewforum.php?id=85,https://lists.openstreetmap.org/listinfo/talk-ja
 JE,Jersey,,
 JO,Jordan,,
 KZ,Kazakhstan,,
-KE,Kenya,,
+KE,Kenya,,https://lists.openstreetmap.org/listinfo/talk-ke
 KI,Kiribati,,
-XK,Kosovo,,
+XK,Kosovo,,https://lists.openstreetmap.org/listinfo/talk-kosovo
 KW,Kuwait,,
 KG,Kyrgyzstan,,
 LA,Laos,,
-LV,Latvia,http://forum.openstreetmap.org/viewforum.php?id=59,
-LB,Lebanon,,
+LV,Latvia,http://forum.openstreetmap.org/viewforum.php?id=59,https://lists.openstreetmap.org/listinfo/talk-lv
+LB,Lebanon,,https://lists.openstreetmap.org/listinfo/talk-lb
 LS,Lesotho,,
 LR,Liberia,,
 LY,Libya,,
 LI,Liechtenstein,,
-LT,Lithuania,,
-LU,Luxembourg,,
+LT,Lithuania,,https://lists.openstreetmap.org/listinfo/talk-lt
+LU,Luxembourg,,https://lists.openstreetmap.org/listinfo/talk-lu
 MO,"Macau SAR China",,
 MK,Macedonia,http://forum.openstreetmap.org/viewforum.php?id=36,
-MG,Madagascar,,
-MW,Malawi,,
-MY,Malaysia,http://forum.openstreetmap.org/viewforum.php?id=60,
+MG,Madagascar,,https://lists.openstreetmap.org/listinfo/talk-mg
+MW,Malawi,,https://lists.openstreetmap.org/listinfo/talk-mw
+MY,Malaysia,http://forum.openstreetmap.org/viewforum.php?id=60,https://lists.openstreetmap.org/listinfo/talk-my
 MV,Maldives,,
-ML,Mali,,
+ML,Mali,,https://lists.openstreetmap.org/listinfo/talk-ml
 MT,Malta,,
 MH,"Marshall Islands",,
 MQ,Martinique,,
 MR,Mauritania,,
 MU,Mauritius,,
 YT,Mayotte,,
-MX,Mexico,http://forum.openstreetmap.org/viewforum.php?id=79,
+MX,Mexico,http://forum.openstreetmap.org/viewforum.php?id=79,https://lists.openstreetmap.org/listinfo/talk-mx
 FM,Micronesia,,
 MD,Moldova,,
 MC,Monaco,,
-MN,Mongolia,,
+MN,Mongolia,,https://lists.openstreetmap.org/listinfo/talk-mn
 ME,Montenegro,http://forum.openstreetmap.org/viewforum.php?id=70,
 MS,Montserrat,,
-MA,Morocco,,
+MA,Morocco,,https://lists.openstreetmap.org/listinfo/talk-ma
 MZ,Mozambique,,
-MM,"Myanmar (Burma)",,
+MM,"Myanmar (Burma)",,https://lists.openstreetmap.org/listinfo/talk-mm
 NA,Namibia,,
 NR,Nauru,,
-NP,Nepal,http://forum.openstreetmap.org/viewforum.php?id=81,
-NL,Netherlands,http://forum.openstreetmap.org/viewforum.php?id=12,
-NC,"New Caledonia",,
+NP,Nepal,http://forum.openstreetmap.org/viewforum.php?id=81,https://lists.openstreetmap.org/listinfo/talk-np
+NL,Netherlands,http://forum.openstreetmap.org/viewforum.php?id=12,https://lists.openstreetmap.org/listinfo/talk-nl
+NC,"New Caledonia",,https://lists.openstreetmap.org/listinfo/talk-nc
 NZ,"New Zealand",,
-NI,Nicaragua,,
-NE,Niger,,
-NG,Nigeria,,
+NI,Nicaragua,,https://lists.openstreetmap.org/listinfo/talk-ni
+NE,Niger,,https://lists.openstreetmap.org/listinfo/talk-ne
+NG,Nigeria,,https://lists.openstreetmap.org/listinfo/talk-ng
 NU,Niue,,
 NF,"Norfolk Island",,
 KP,"North Korea",,
@@ -170,41 +170,41 @@ NO,Norway,http://forum.openstreetmap.org/viewforum.php?id=68,
 OM,Oman,,
 PK,Pakistan,http://forum.openstreetmap.org/viewforum.php?id=80,
 PW,Palau,,
-PS,"Palestinian Territories",,
+PS,"Palestinian Territories",,https://lists.openstreetmap.org/listinfo/talk-ps
 PA,Panama,http://forum.openstreetmap.org/viewforum.php?id=61,
 PG,"Papua New Guinea",,
-PY,Paraguay,,
-PE,Peru,,
-PH,Philippines,,
+PY,Paraguay,,https://lists.openstreetmap.org/listinfo/talk-py
+PE,Peru,,https://lists.openstreetmap.org/listinfo/talk-pe
+PH,Philippines,,https://lists.openstreetmap.org/listinfo/talk-ph
 PN,"Pitcairn Islands",,
-PL,Poland,http://forum.openstreetmap.org/viewforum.php?id=23,
-PT,Portugal,http://forum.openstreetmap.org/viewforum.php?id=86,
-PR,"Puerto Rico",,
+PL,Poland,http://forum.openstreetmap.org/viewforum.php?id=23,https://lists.openstreetmap.org/listinfo/talk-pl
+PT,Portugal,http://forum.openstreetmap.org/viewforum.php?id=86,https://lists.openstreetmap.org/listinfo/talk-pt
+PR,"Puerto Rico",,https://lists.openstreetmap.org/listinfo/talk-pr
 QA,Qatar,,
 RE,Réunion,,
-RO,Romania,http://forum.openstreetmap.org/viewforum.php?id=69,
-RU,Russia,http://forum.openstreetmap.org/viewforum.php?id=21,
+RO,Romania,http://forum.openstreetmap.org/viewforum.php?id=69,https://lists.openstreetmap.org/listinfo/talk-ro
+RU,Russia,http://forum.openstreetmap.org/viewforum.php?id=21,https://lists.openstreetmap.org/listinfo/talk-ru
 RW,Rwanda,,
 WS,Samoa,,
 SM,"San Marino",,
 ST,"São Tomé & Príncipe",,
 SA,"Saudi Arabia",,
-SN,Senegal,,
-RS,Serbia,http://forum.openstreetmap.org/viewforum.php?id=62,
-SC,Seychelles,,
+SN,Senegal,,https://lists.openstreetmap.org/listinfo/talk-sn
+RS,Serbia,http://forum.openstreetmap.org/viewforum.php?id=62,https://lists.openstreetmap.org/listinfo/talk-rs
+SC,Seychelles,,https://lists.openstreetmap.org/listinfo/talk-sc
 SL,"Sierra Leone",,
 SG,Singapore,,
 SX,"Sint Maarten",,
 SK,Slovakia,,
-SI,Slovenia,http://forum.openstreetmap.org/viewforum.php?id=58,
+SI,Slovenia,http://forum.openstreetmap.org/viewforum.php?id=58,https://lists.openstreetmap.org/listinfo/talk-si
 SB,"Solomon Islands",,
 SO,Somalia,,
-ZA,"South Africa",http://forum.openstreetmap.org/viewforum.php?id=75,
+ZA,"South Africa",http://forum.openstreetmap.org/viewforum.php?id=75,https://lists.openstreetmap.org/listinfo/talk-za
 GS,"South Georgia & South Sandwich Islands",,
-KR,"South Korea",,
+KR,"South Korea",,https://lists.openstreetmap.org/listinfo/talk-ko
 SS,"South Sudan",,
 ES,Spain,http://forum.openstreetmap.org/viewforum.php?id=83,https://lists.openstreetmap.org/listinfo/talk-es
-LK,"Sri Lanka",http://forum.openstreetmap.org/viewforum.php?id=77,
+LK,"Sri Lanka",http://forum.openstreetmap.org/viewforum.php?id=77,https://lists.openstreetmap.org/listinfo/talk-lk
 BL,"St. Barthélemy",,
 SH,"St. Helena",,
 KN,"St. Kitts & Nevis",,
@@ -216,37 +216,37 @@ SD,Sudan,,
 SR,Suriname,,
 SJ,"Svalbard & Jan Mayen",,
 SZ,Swaziland,,
-SE,Sweden,http://forum.openstreetmap.org/viewforum.php?id=4
+SE,Sweden,http://forum.openstreetmap.org/viewforum.php?id=4,https://lists.openstreetmap.org/listinfo/talk-se
 CH,Switzerland,http://forum.openstreetmap.org/viewforum.php?id=30,
-SY,Syria,,
-TW,Taiwan,,
+SY,Syria,,https://lists.openstreetmap.org/listinfo/talk-sy
+TW,Taiwan,,https://lists.openstreetmap.org/listinfo/talk-tw
 TJ,Tajikistan,,
-TZ,Tanzania,,
+TZ,Tanzania,,https://lists.openstreetmap.org/listinfo/talk-tz
 TH,Thailand,http://forum.openstreetmap.org/viewforum.php?id=46,
 TL,Timor-Leste,,
-TG,Togo,,
+TG,Togo,,https://lists.openstreetmap.org/listinfo/talk-tg
 TK,Tokelau,,
 TO,Tonga,,
 TT,"Trinidad & Tobago",,
 TA,"Tristan da Cunha",,
-TN,Tunisia,,
-TR,Turkey,http://forum.openstreetmap.org/viewforum.php?id=44,
+TN,Tunisia,,https://lists.openstreetmap.org/listinfo/talk-tn
+TR,Turkey,http://forum.openstreetmap.org/viewforum.php?id=44,https://lists.openstreetmap.org/listinfo/talk-tr
 TM,Turkmenistan,,
 TC,"Turks & Caicos Islands",,
 TV,Tuvalu,,
 UM,"U.S. Outlying Islands",,
 VI,"U.S. Virgin Islands",,
-UG,Uganda,,
+UG,Uganda,,https://lists.openstreetmap.org/listinfo/talk-ug
 UA,Ukraine,http://forum.openstreetmap.org/viewforum.php?id=40,
 AE,"United Arab Emirates",,
 GB,"United Kingdom",http://forum.openstreetmap.org/viewforum.php?id=5,https://lists.openstreetmap.org/listinfo/talk-gb
-US,"United States",http://forum.openstreetmap.org/viewforum.php?id=20,
-UY,Uruguay,http://forum.openstreetmap.org/viewforum.php?id=78,
+US,"United States",http://forum.openstreetmap.org/viewforum.php?id=20,https://lists.openstreetmap.org/listinfo/talk-us
+UY,Uruguay,http://forum.openstreetmap.org/viewforum.php?id=78,https://lists.openstreetmap.org/listinfo/talk-uy
 UZ,Uzbekistan,,
 VU,Vanuatu,,
 VA,"Vatican City",,
-VE,Venezuela,http://forum.openstreetmap.org/viewforum.php?id=50,
-VN,Vietnam,,
+VE,Venezuela,http://forum.openstreetmap.org/viewforum.php?id=50,https://lists.openstreetmap.org/listinfo/talk-ve
+VN,Vietnam,,https://lists.openstreetmap.org/listinfo/talk-vi
 WF,"Wallis & Futuna",,
 EH,"Western Sahara",,
 YE,Yemen,,
@@ -265,3 +265,4 @@ GB,Oxfordshire-Cotswolds,,https://lists.openstreetmap.org/listinfo/talk-gb-oxonc
 GB,Northern England,,https://lists.openstreetmap.org/listinfo/talk-gb-thenorth
 GB,West Midlands,,https://lists.openstreetmap.org/listinfo/talk-gb-westmidlands
 IT,Basilicata-Puglia,,https://lists.openstreetmap.org/listinfo/talk-it-appulo-lucana
+,Latin America,,https://lists.openstreetmap.org/listinfo/talk-latam
