@@ -1,5 +1,5 @@
 # OpenStreetMap Communities
-*Where OpenStreetMap communities gather online*
+*Where do OpenStreetMap communities gather online?*
 
 [This list](https://github.com/mvexel/osm-communities/blob/master/osm-communities-list.csv) tells you where national, regional and local communities hang out online.
 
